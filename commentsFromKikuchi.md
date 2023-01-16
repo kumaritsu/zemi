@@ -1,7 +1,7 @@
 コメントへの対応はこのファイルに記し、Slackでこのファイルへのリンクを教えてください。
 対応の記述方法は、[2020卒論・修論](https://github.com/kikuchiken-waseda/kikuwiki/blob/master/seminar/2020%E5%8D%92%E8%AB%96%E3%83%BB%E4%BF%AE%E8%AB%96.md)の「GitHubの個人リポジトリ内での添削指導方法」を参照。
 
-# 2023/01/14 要旨修正（熊沢）
+# 2023/01/16 要旨修正（熊沢）
 ## 要旨
 ## 菊池
 - Covid-19はCOVID-19ではないですか？
